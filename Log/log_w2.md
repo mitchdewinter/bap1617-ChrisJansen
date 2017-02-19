@@ -29,16 +29,15 @@
  * Probleem GPIO willen led niet doen blinken.
      * Oorzaak, slecht contact op het breadboard.
  * Probleem bij tesen van PIR: Serial console geeft alleen war tekens
-     * Geprobeerd  het aanpassen van baudrate     *
+     * Geprobeerd  het aanpassen van baudrate   *
      * Geprobeerd andere scripts
-     * Geprobeerd andere PIR sensors* 
+     * Geprobeerd andere PIR sensors 
      * Geprobeerd nieuwe booltloader
 
 ### Donderdag
 * Maken van breadboard schema van sensor module. (Klaar)
 * Maken van technisch schema van sensor module. (Klaar)
 * Maken van PCB schema van sensor module. (Klaar)
-
 ### Vrijdag
 * Debuggen van PCB schema
 * Prototype PIR response testenPIR reageert, 5 second delay time van laatste detectie tot standby mode.
