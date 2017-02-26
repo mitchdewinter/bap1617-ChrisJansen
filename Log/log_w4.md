@@ -2,17 +2,21 @@
 ### Maandag
 * Maken van bill of materials voor Raspberry Pi 3B en PIR sensor
 * Installing Microsoft IoT Core op Raspberry Pi 3B
-* Cibfugyrereb vab Raspberry Pi3B
+* Configureren vab Raspberry Pi3B
 * Configureren van Netwerk access op Microsoft IoT Core
-* Updating Raspberry Pi 3B Microsoft IoT core* 
+* Updating Raspberry Pi 3B Microsoft IoT core 
+
 ### Dinsdag
 * Uitwerken van analyse software
 * Uitwerken van analyse hardware
-* Tekenen van technisch schema Raspberry Pi and PIR Sensor  
+* Tekenen van technisch schema Raspberry Pi 3B and PIR Sensor
+  
 ### Woensdag
 * Onderzoeken benodigtheden voor software developent
 * Aanvragen van developement omgeving in Docker
 * Verzamelen van Digipolis software development templates
+
+
 ### Donderdag
 * Updaten van Visual Studio 2015
 * Updaten van Visual studio libraries
