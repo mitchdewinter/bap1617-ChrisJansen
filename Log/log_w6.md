@@ -3,19 +3,18 @@
 * Onderzoek web service template
 * Vergadering: stage deliverables
 * Onderzoek van raspberry pi script
-### Dinsdag
- 
+### Dinsdag 
 * Onderzoek gitbook bestand structuur
 * Onderzoek layout van scriptie
 * Weekelijkse evaluatie van het project
 * Onderzoek netwerkprotocollen
-	* HTTP, Hypertext Transfer Protocol
- 			* Rest, Representational state transfer
-  				* Restful -> CoAP, Constrained Application Protocol  		
-  			* Stomp, Streaming Text Oriented Messaging Protocol
- 	* **MQTT, Message Queuing Telemetry Transport (voorkeur)**
- 	* **AMQP, Advanced Message Queuing Protocol (voorkeur)**
- 	* XMPP, Extensible Messaging and Presence Protocol  
+     * HTTP, Hypertext Transfer Protocol
+           * Rest, Representational state transfer
+           * Restful -> CoAP, Constrained Application Protocol  		
+           * Stomp, Streaming Text Oriented Messaging Protocol
+    * **MQTT, Message Queuing Telemetry Transport (voorkeur)**
+    * **AMQP, Advanced Message Queuing Protocol (voorkeur)**
+    * XMPP, Extensible Messaging and Presence Protocol  
 ### Woensdag
 * 08/03/2017 Jobbeurs verplichte aanweizig 
 ### Donderdag
