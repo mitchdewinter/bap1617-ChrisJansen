@@ -1,4 +1,4 @@
-#Logboek Week #7
+#Logboek Week #7 (13/03/17 - 19/03/17)
 ### Maandag
 * Uitwerken structuur scriptie
 * Verzamelen van informatie voor tussentijdse presentatie
