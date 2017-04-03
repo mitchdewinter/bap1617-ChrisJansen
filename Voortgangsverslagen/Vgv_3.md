@@ -2,6 +2,17 @@
 # (Voorlopige) Titel onderwerp:
 ## Promotors
 <!--Zet hier alle namen+email van je verschillende promotors (stagebegeleider, stagementor). Zeker in vet zetten indien er veranderingen hebben plaatsgevonden-->
+
+* **Stagebegeleider**
+  * Maarten Luyts - Maarten.Luyts@ap.be
+* **Stagementor**
+  * Greet Brosens - Greet.Brosens@Digipolis.be
+  * Rudi De Geest - Rudi.deGeest@Digipolis.be
+* **Stagegever** (Stage coördinator Digipolis)
+  * Stijn Matthe - Stijn.Matthe@Digipolis.be
+* **Stagecoördinators**
+  * Maarten Luyts - Maarten.Luyts@ap.be
+  * Marc Smets - Marc.Smets@ap.be
 ## Abstract
 <!--Het abstract is een samenvatting van je totale bachelorproef, inclusief reeds gekende resultaten-->
 
@@ -21,6 +32,12 @@
 
 ### Nieuwe contacten
 <!--Nieuwe contacten gemaakt in deze periode (naam, voornaam, e-mail, telefoonnummer, bedrijf, functie, relevantie voor het werk)-->
+
+* Sven Jochems <sven.jochems@nsx.normalizedsystems.org>
+	* Bedrijf: NSX
+	* Java Developer
+	* Relevantie: Contact persoon voor het opstellen van de MQTT broker bij Digipolis/NSX
+* 
 
 ### Literatuur
 <!--Nieuwe contacten gemaakt in deze periode (naam, voornaam, e-mail, telefoonnummer, bedrijf, functie, relevantie voor het onderzoek)-->
