@@ -33,5 +33,13 @@
 	* Probleem: syntax fout in formaat Username "naam.achternaam"
 	* Oplossing: Nieuw username formaat aanvragen bij NSX
 ### Donderdag
-
+* Opstellen van eventhandler project in Docker
+* Configureren van MQTT Publisher op Raspberry PI
+	* voorzien van password encryptie bij MQTT login
+	* topic structuur van MQTT message
+	* Username (wachten voor aanpassing bij NSX)
+	* Aanpassen van variabelen die moeten worden gepubliceerd 
+* Testen van data verzenden naar NSX
+* Opzoeken: automatisch opstarten van Python script on boot van Raspberry Pi 
 ### Vrijdag
+* Werken aan Scriptie en voortgansverslag
