@@ -1,4 +1,7 @@
 [//]: # (vlug knippen en plakken voor het schrijven tekst blokken <p style="text-align: justify;"></p>)
+
+# IoT-Smartbuildings: De bezettingsgraad van conferentieruimtes optimaliseren bij Digipolis Antwerpen
+
 # Inhoudsopgave
 * [Figurenlijst](part1/README.md)
 * [Abstract](part2/README.md)
