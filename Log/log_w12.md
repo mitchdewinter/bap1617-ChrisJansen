@@ -35,8 +35,7 @@
 		* message format?
 		* Welke MQTT broker gebruiken NSX?
 			* ondersteuning van spaties in topic? (wie contacteren?)
+		* Oplossing: NSX account aanvragen
+		* Mailen Sven ivm met nieuwe configuratie gegevens van MQTT broker
 	* --**Donderdag vrije dag**--
-
-
-
 
