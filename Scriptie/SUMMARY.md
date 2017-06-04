@@ -9,7 +9,7 @@
          * [De accurate telling van mensen in het gebouw tijdens een evacuatie](./evacuatie.md)
          * [Opvolgen van de luchtkwaliteit in het gebouw in real-time](./luchtkwaliteit.md)
          * [De bezettingsgraad van conferentie ruimtes optimaliseren](./beheervergaderzalen.md)
-* [Technisch](./technisch.md)
+* [Technisch]()
      * [Analyse](./analyse.md)
      * [Het ontwikkelingsproces](./ontwikkelingsproces.md)
 	     * [Arduino UNO met WizFi210 Shield en PIR Sensor](./arduinouno.md)
