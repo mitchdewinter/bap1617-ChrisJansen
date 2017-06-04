@@ -17,7 +17,6 @@
 	      * [Raspberry Pi Zero](./rbpizero.md)
 	      * [Raspberry PI 3B](./rbpib3.md)
 	      * [PIR-STD-LP](./pirstdlp.md)
-	      * [Raspberry Pi Zero W](./rbpizerow.md)
 	 * [Design](./design.md)
 	     * [Raspberry PI 3B en passieve infrarood sensor](./rbpi3bpir.md)
 	     * [NSX Normalized systems](./nsx.md)
