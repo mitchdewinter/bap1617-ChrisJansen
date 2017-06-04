@@ -1,0 +1,9 @@
+##Onderzoeksvraag van het project
+<p style="text-align: justify;">De onderzoeksvraag bij Digipolis Antwerpen: Wat zijn de mogelijkheden met Internet of Things om het Digipolis-gebouw verder te laten evolueren in de wereld van Smartbuildings? Tijdens de eerste weken van de stage is er onderzocht wat project hiervoor het meest in aanmerking zou komen. Voordat het project van “Smartbuildings @ Digipolis: De bezettingsgraad van conferentie ruimtes optimaliseren” werd gekozen is er een voorafgaand onderzoek gebeurd. De beschikbare projecten bestonden uit:</p>
+
+* Zoek een nuttige toepassing voor de Sigfox QW Developerskit.
+* Zoek een methode voor een accurate telling van mensen in het gebouw om een evacuatie zo vlot mogelijk te laten verlopen.
+* Zoek een methode om in real-time de luchtkwaliteit in het gebouw te analyseren.
+* De bezettingsgraad van conferentie ruimtes optimaliseren.
+
+<p style="text-align: justify;">Deze projecten worden nader bekeken en geëvalueerd om later in de praktijk te worden omgezet. Belangrijke aspecten om als kandidaat project geselecteerd te worden moet het project voldoen aan de privacy wetgeving en kunnen functioneren binnen de beveilingsvereisten van Digipolis Antwerpen. Het project van deze scriptie is een hardware pilootproject binnen Digipolis Antwerpen, daarom is het budget en de beperkingen voor het project niet bekend. Deze beperkingen worden tijdens het onderzoek en het ontwikkelingsproces vastgelegd op basis van de bevindingen. De bevindingen moeten in kaart brengen wat al dan niet mogelijk is binnen het beleid van Digipois Antwerpen. Het is belangrijk hier rekening word gehouden met de aspecten van de privacy wetgeving, de kosten van het project en de in huis bronnen om het project naar de toekomst toe verder te ontwikkelen. Dit laat Digipolis Antwerpen toe om in de toekomst een beter inzage te geven in de praktische uitwerking van Internet of Things projecten binnen Digipolis Antwerpen zelf.</p>
