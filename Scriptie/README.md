@@ -1,14 +1,2 @@
-#Introductie
-
-Deze file zal de eerste pagina worden in je uiteindelijke scriptie. Voor de
-scriptie maken we gebruik van gitbook. Dit een technologie die ons toelaat om
-scriptie te hosten via git, het voordeel hiervan is de verzameling van alle
-bronbestanden en overige stage documenten in en een repo. GitBook voorziet ook
-een gratis online hosting van het uiteindelijke book. Het Stage Syllabus is
-hier een voorbeeld van. [(zie hier)](https://luytsm.gitbooks.io/bap-stage-syllabus/content/)
-
-We voorzien een kleine introductie in de werking van GitBook, het is de
-verantwoordelijkheid van de student om vaardig te worden in het gebruik van
-GitBook.
-
-
+#Abstract
+<p style="text-align: justify;">Het pilootproject van het automatisch vergaderzaalbeheer in Exchange server 2016 met een Raspbery Pi 3B en een PIR-STD sensor is stapsgewijs tot stand gekomen. Dit is het eerste Internet of Things hardware project bij Digipolis Antwerpen dat intern werd ontwikkeld. Hiervoor is het project gestart met een betaalbare technologie en een simpele autonomie, zoals de Arduino Uno microcontroller en een Passive Infrared Sensor (PIR) om activiteit in een vergaderzaal te detecteren. Naarmate het project vorderde is het project geëvolueerd naar het gebruik van meer intelligente hardware, zoals de Rasberry PI 3B, om aan de projecteisen te voldoen. Zo heeft de Raspberry Pi 3B een ingebouwde ethernet poort, wifi en Bluetooth om de het project van de nodige connectiviteit te voorzien. Op de Raspberry Pi 3B draait het Linux Raspbian operating systeem met een python3 script om de sensors uit te lezen. De hardware werd verder uitgebreid met een PIR-STD-LP sensor en een Led. De software werd aangevuld met een RabbitMQ MQTT Broker die bij NSX Normalized Systems wordt gehost. De hard- en software zijn in staat om in eerste instantie bewegingen te detecteren wat de aanwezigheid van mensen verondersteld. In de toekomst kan er een DHT22 of MQ-135 sensor worden toegevoegd. De DHT22 sensor kan de temperatuur alsook de vochtigheidsgraad meten terwijl de MQ-135 veel voorkomende (giftige) gassen kan opsporen. Deze sensoren zullen later in de scriptie nader beken worden. De software die deze gegevens interpreteren zullen de dataset verrijken in de toekomst. Tijdens deze fase van het project worden de technieken (zowel hardware als software) bestudeerd, geëvalueerd en bijgestuurd met de resultaten van de uitgevoerde testen. Op die manier wordt het proces steeds verfijnd en worden werkende deelprojecten gerealiseerd.</p>
