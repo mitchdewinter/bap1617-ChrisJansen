@@ -13,8 +13,7 @@
 
 <p style="text-align: justify;">De bandbreedte van het signaal werkt van 0.5Hz tot 25Hz. In rust stand geeft het signaal een stroom van 40µA, bij het detecteren van activiteit loopt het signaal op tot 400µA. Omdat de sensor een kleine dimensie heeft van 25x25x20mm kan deze later gemakkelijk in een behuizing worden weggewerkt. De DHT22 en de extra features van de PIR sensor zijn wel opgenomen in de documentatie en schema's maar niet geimplementeerd in de hardware. Zo kan is er een basis beschikbaar om deze in de practijk te implementeren naar maten het project evolueert. Het breadboard en elektrisch scheme zien er dus als volgt uit:</p>
 
-<img src="images/Breadboard_schema_RBPiPIRDHT22LED.png" alt="Breadboard schema Raspberry Pi 3B en PIR Sensor" width="300" height="" align="">
-<img src="images/RBP3_Prototype_PIR_HTC22_LED_schem.png" alt="Technisch schema Raspberry Pi 3B en PIR sensor" width="300" height="" align="">
+<img src="images/Breadboard_schema_RBPiPIRDHT22LED.png" alt="Breadboard schema Raspberry Pi 3B en PIR Sensor" width="250" height="" align=""><img src="images/RBP3_Prototype_PIR_HTC22_LED_schem.png" alt="Technisch schema Raspberry Pi 3B en PIR sensor" width="250" height="" align="">
 
 Dit is het technische schema van de interne werking van de B+B PIR-STD-LP sensor:
 

@@ -1,4 +1,5 @@
 [//]: # (vlug knippen en plakken voor het schrijven tekst blokken <p style="text-align: justify;"></p><img src="images/MQ-135.png" alt="FIGUUR 2: MQ-135 GAS SENSOR" width="200" height="" align="right">)
+[//]: # (![](img/image.jpg))
 
 #Inhoudsopgave
 
