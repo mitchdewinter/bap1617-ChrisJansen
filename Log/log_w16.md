@@ -1,13 +1,17 @@
 # Logboek Week #15 (29/05/17 - 02/06/17)
 ### Maandag
-* Scriptie
+* Scriptie.
+
 ### Dinsdag
-* inplementeren van schema's voor techiscne analyse
-* verzamelen van termen voor glossary 
+* Invoegen van schema's voor 'Techiscne analyse' in scriptie.
+* Verzamelen van termen voor 'Glossary' in scriptie. 
+
 ### Woensdag
-* schrijven van Design van het project in scriptie
-* Wekelijkste Sychnronisatie gesprek
+* Schrijven van 'Design' van het project in scriptie.
+* Wekelijkste sychnronisatiegesprek.
+
 ### Donderdag
-* Het beschrijven van het ontwikkelingsprocess in de scriptie
+* Het beschrijven van het 'Ontwikkelingsproces' in de scriptie.
+
 ### Vrijdag
-* Scriptie verbeteren 
+* Scriptie verbeteren. 
