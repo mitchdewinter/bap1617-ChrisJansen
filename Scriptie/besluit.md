@@ -1,0 +1,2 @@
+#Besluit
+<p style="text-align: justify;">In dit hoofdstuk word beschreven hoe de stage is verlopen. Ondermeer een verklaring van de bereikte resultaten, ervaringen en plannen naar de toekomst toe. In het project stonden de wensen van Digipolis en de integriteit van de beveliging voorop. Dit had een grote invloed op de evolutie van het project en de vooruitgang die stapgewijs tot stand kwam. De limitaties die in het verloop  van het project door Digipolis Antwerpen werden opgelegt om bepaalde technologieën niet te gebruiken maakte het project een leuke uitdaging.</p>
