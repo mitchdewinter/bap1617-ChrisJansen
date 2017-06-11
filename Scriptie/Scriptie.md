@@ -35,7 +35,7 @@
          * [Web Service API en Exchange Server 2016](./besluit/webserviceexchange.md)
          * [De toekomst van het project](./besluit/toekomst.md)
      * [Samenvatting](./samenvatting.md)
-* [Bibliografie](./doc/Bibliografie.md)
+* [Bibliografie](./bibliografie/Bibliografie.md)
 * [Glossary](./glossary.md)
 
 #Abstract

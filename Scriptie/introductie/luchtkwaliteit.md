@@ -1,5 +1,5 @@
 ###Opvolgen van de luchtkwaliteit in het gebouw in real-time.
-<img src="images/MQ-135.png" alt="FIGUUR 2: MQ-135 GAS SENSOR" width="200" height="" align="right">
+<img src="images/MQ-135.png" alt="MQ-135 GAS SENSOR" width="200" height="" align="right">
 <p style="text-align: justify;">Digipolis Antwerpen bestaat uit twee grote gebouwen met elk zes verdiepingen. Het gebouw is voorzien van een airconditioningsysteemmet. Om die reden is het gebouw voorzien van vaste ramen die niet opengezet kunnen worden. Digipolis Antwerpen stelt zich de vraag of het via Internet of Things mogelijk is om de luchtsamenstelling in heel het gebouw in kaart te brengen. Tijdens het onderzoek is er gekeken naar een Arduino en Raspberry Pi gekoppeld aan sensoren zoals MQ-135 gas sensor die die veelvoorkomende gassen detecteert die de luchtkwaliteit in het dagelijkse leven bepalen. Deze sensor werkt op 5 Volt en is compatibel met een hele reeks microcontrollers. Deze sensor uit de MQ familie detecteert gassen zoals:</p>
 
 
