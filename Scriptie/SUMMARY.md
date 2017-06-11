@@ -18,7 +18,7 @@
 	      * [Raspberry PI 3B](./rbpib3.md)
 	      * [PIR-STD-LP](./pirstdlp.md)
 	 * [Design](./design.md)
-	     * [Raspberry Pi 3B en Passieve Infrarood sensor](./rbpi3bpir.md)
+	     * [Raspberry Pi 3B en PIR](./rbpi3bpir.md)
 	     * [NSX Normalized systems](./nsx.md)
 	     * [De Web Service API en Exchange Server 2016](./webserviceapi.md)
 	     * [De Hostsesrver](./hostserver.md)
