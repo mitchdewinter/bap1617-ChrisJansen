@@ -2,7 +2,7 @@
 <img src="images/featherwing.png" alt="FIGUUR 3: ARDUINO UNO WIZFI210 SHIELD" width="200" height="" align="right">
 <p style="text-align: justify;">Bij een volgende opstelling werd er gekozen om met een Arduino Featherwing HUZZAH te werken. De Arduino Featherwing HUZZAH is kleiner dan de Arduino UNIO en heeft een geintegreerde ESP8266 chipset. Ook hierbij controleert een script op de Exchange Server of de vergaderzaal gereserveerd is door de Exchange Web Service API (EWS) aan te spreken. Het schema ziet er dan als volgt uit:</p> 
 
-![FIGUUR 4: ARDUINO featherwing HUZZAH EN PIR ARCHITECTUUR](images/architecturfeatherwing.png)
+![ARDUINO featherwing HUZZAH EN PIR ARCHITECTUUR](images/architecturfeatherwing.png)
 
 <p style="text-align: justify;">In tegenstelling tot de eerste testopstelling, werd er niet gewerkt met apparatuur gevoed door batterijen maar met apparaten die hun voeding uit netstroom halen.</p> 
 <p style="text-align: justify;">Zoals eerder bleek, was de verbinding van de Arduino met het wifi netwerk van Digipolis een obstakel. Deze gebruikt WPA2-Enterprise PEAP-MSSHAPv2 encryptie. Een Arduino Uno met externe ESP8266 wifi module, blijkt geen waardig alternatief voor de eerste gefaalde proefopstelling gezien de ondersteuning van Enterprise encryptie voor Arduino eerder beperkt is.</p> 

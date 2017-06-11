@@ -1,4 +1,4 @@
-###NSX Normalized systems
+###NSX Normalized Systems
 <img src="images/NSXNS-logo.png" alt="NSX Normalized Systems logo" width="200" height="" align="right">
 <p style="text-align: justify;">NSX Normalized Systems is een spin-off van de Universiteit van Antwerpen. Dit startersbedrijf vond zijn oorsprong in het departement Economie, Management Information Systems (MIS). De bedoeling van NSX Normalized Systems is het optimaliseren van software ontwikkeling en architectuur zodat deze  gemakkelijker mee kan evolueren in het snel groeiende digitale tijdperk. NSX zorgt dat de software is geschreven in een finer construct zodat deze eenvoudig is uit te bereiden.</p>
 

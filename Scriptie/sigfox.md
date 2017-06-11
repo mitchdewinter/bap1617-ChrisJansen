@@ -1,4 +1,4 @@
-###Sigfox QW Developerskit
+###Sigfox QW Development Kit
 <p style="text-align: justify;">Digipolis Antwerpen is al enige tijd bezig zich te verdiepen in de wereld van Internet of Things. Al voor de stage begon, heeft Digipolis Antwerpen een QW Development Kit ter beschikking gekregen om zo te onderzoeken wat Sigfox voor Digipolis Antwrpen kan betekenen. Omdat Digipolis geen interne hardware ontwikkelaars heeft die zich specialiseren in Internet of Things, is de Sigfox QW module al een tijdje blijven liggen. Hieruit vloeide de vraag om een nuttige toepassing voor de Sigfox QW module te vinden en te achterhalen of dit een haalbaar project is voor deze scriptie.</p>
 
 <img src="images/GPS_Shield.png" alt="FIGUUR 1: SIGFOX QW DEVELOPERS KIT" width="200" height="" align="right" title="Sigfox QW Developterskit">

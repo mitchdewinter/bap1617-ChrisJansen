@@ -5,7 +5,7 @@
   * [Digipolis Antwerpen](./digipolisantwerpen.md)
   * [Onderzoeksvraag van het project](./onderzoeksvraag.md)
      * [Selectie van het project en probleemstelling](./sigfox.md)
-         * [Sigfox QW Developerskit](./sigfox.md)
+         * [Sigfox QW Development Kit](./sigfox.md)
          * [De accurate telling van mensen in het gebouw tijdens een evacuatie](./evacuatie.md)
          * [Opvolgen van de luchtkwaliteit in het gebouw in real-time](./luchtkwaliteit.md)
          * [De bezettingsgraad van conferentie ruimtes optimaliseren](./beheervergaderzalen.md)
@@ -22,7 +22,7 @@
 	     * [NSX Normalized systems](./nsx.md)
 	     * [De Web Service API en Exchange Server 2016](./webserviceapi.md)
 	     * [De Hostsesrver](./hostserver.md)
-	 * [Het ontwikkelingsprocess en toegepaste technologieën](./ontwikkelentoegepast.md)
+	 * [Het ontwikkelingsprocess en toegepaste technologieën](./ontwikkelingsproces.md)
 	     * [Interactie](./interactie.md)
 	     * [Hardware](./hardware.md)
 	     * [Software](./software.md)
@@ -36,8 +36,6 @@
          * [De toekomst van het project](./toekomst.md)
      * [Samenvatting](./samenvatting.md)
 * [Bibliografie](./Bibliografie.md)
-     * [Gevolgde cursussen](./cursus.md)
-     * [Geraadpleegde bronnen](./bronnen.md)
-         * [Online bronnen](./onlinebron.md)
-         * [gepubliceerde bronnen](./pubbron.md)
+
+
 * [Glossary](./glossary.md)

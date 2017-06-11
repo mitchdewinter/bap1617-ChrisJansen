@@ -1,5 +1,5 @@
 ####Raspberry Pi Zero
-<img src="images/ArduinoWizFi210shield.jpg" alt="FIGUUR 3: ARDUINO UNO WIZFI210 SHIELD" width="200" height="" align="right">
+<img src="images/RBPi_Zero.jpg" alt="FIGUUR 3: ARDUINO UNO WIZFI210 SHIELD" width="200" height="" align="right">
 <p style="text-align: justify;">Gezien de eerste fase problemen gaf in verband met de garanties die de netwerkbeveiliging van Digipolis Antwerpen vereisen, kwam een volgende fase in zicht waarbij de inzet van meer intelligente hardware getest kan worden. Hiervoor komt de Raspberry Pi Zero en de Raspberry Pi 3B in aanmerking. Het opstellen van een volwaardige test-setup van de Raspberry Pi Zero zou extra kosten met zich meebrengen. De Raspberry Pi Zero heeft geen interne wifi module wat de aankoop van een wifi shield en extra onderdelen nodig om een prototype te bouwen zou vereisen. Een alternatief zou de Rarspberry Pi Zero W kunnen zijn, maar gezien de hardware voor het project al besteld was en de late release date van 28 februari 2017, komt deze niet meer in aanmerking. Ook de aankoop van losse onderdelen voor de Raspberry Pi Zero zou het project danig vertraging kunnen bezorgen gezien de aankoopprocedures de Wet op de Overheidsopdrachten moeten volgen.</p>
 
 ![FIGUUR 5: RASPERRY PI ZERO EN PIR ARCHITECTUUR](images/architecturrbpizero.png)
