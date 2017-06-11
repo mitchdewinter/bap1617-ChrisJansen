@@ -18,16 +18,14 @@ een programma dat via een netwerk HTTP-verzoeken ontvangt en documenten naar de 
 
 #Privacywet: 
 De EU richtlijn 1995/46/EG (= Richtlijn Gegevensbescherming) ligt aan de basis voor de Belgische Privacy wetgeving: Wet van 8 december 1992 voor de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.
-#De wet wordt afgedwongen door de uitvoeringsbesluiten:
+De wet wordt afgedwongen door de uitvoeringsbesluiten:
 KB 13/02/2001 (KB ter uitvoering van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens) en KB 17/12/2003 (KB tot vaststelling van de nadere regels met betrekking tot de samenstelling en de werking van bepaalde sectorale comités opgericht binnen de Commissie voor de bescherming van de persoonlijke levenssfeer). 
+De richtlijn werd evenwel omgezet in een verordening:  De Algemene Verordening Gegevensbescherming (GDPR) is op 24 mei 2016 in werking getreden maar er wordt een overgangsperiode van 2 jaar voorzien. Vanaf 25/05/18 moet elke organisatie zich in orde gesteld hebben. De  Algemene verordening Gegevensbescherming vereist een strikte toepassing van de wet door overheidsinstanties.
 
-#De richtlijn werd evenwel omgezet in een verordening:  
-De Algemene Verordening Gegevensbescherming (GDPR) is op 24 mei 2016 in werking getreden maar er wordt een overgangsperiode van 2 jaar voorzien. Vanaf 25/05/18 moet elke organisatie zich in orde gesteld hebben. De  Algemene verordening Gegevensbescherming vereist een strikte toepassing van de wet door overheidsinstanties.
-
+##Wet op de Overheidsopdrachten: 
 In het kader van de Openbaarheid van Bestuur, dient elke overheidsinstantie zijn aankopen te doen conform de Wet op de Overheidsopdrachten. Deze wetgeving is gebaseerd op Europese regelgeving en legt regels op die betrekking hebben tot:
  
 * de bekendmaking van de opdrachten en de voorwaarde van mededinging
 * type van opdracht (diensten, levering van werken, goederen)
 * afhankelijk van de aard van de opdracht moet er een specifieke procedure gevolgd worden bij het kiezen van de leverancier. De procedures zijn wettelijk bepaald en kunnen variëren van een openbare en beperkte aanbesteding, een algemene en beperkte offertevraag of een onderhandelingsprocedure met of zonder bekendmaking. Procedures zullen in bepaalde gevallen Europees gevoerd moeten worden. 
 * na de toewijzing gelden er nog een aantal regels mbt de uitvoeringstermijn van de opdracht, betaling en eventuele boetes.
-

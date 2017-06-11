@@ -1,2 +1,8 @@
 #Dankwoord
-Nog te schrijven.
+<p style="text-align: justify;">Een eindwerk maken, is een laatste stap naar het behalen van een diploma, en tegelijk een eerste stap in de werkwereld. Het is een unieke kans om na jaren studeren je theoretische kennis om te kunnen omzetten in een “eigen onderzoek” door middel van een stageperiode. Uiteraard gaat dit gepaard met vallen en opstaan, en heb je de steun en ervaring van anderen nodig. Ik zou dan ook graag mijn dank willen betuigen aan al deze personen die mij hebben bijgestaan bij het voltooien van dit eindwerk.</p>
+
+<p style="text-align: justify;">In eerste instantie zou ik de heer Rudi DeGeest en mevrouw Greet Broosens, willen bedanken omdat zij mij de mogelijkheid hebben gegeven mijn stage te volbrengen in Digpolis Antwerpen. 
+<p style="text-align: justify;">Verder wil ik Patrick Van Houtven bedanken voor de fantastische sfeer waarin ik steeds heb mogen werken en voor de tijd die hij heeft vrijgemaakt om mij heel wat kennis en techniek bij te brengen.</p>
+<p style="text-align: justify;">Ook zou ik mijn promotor  de heer Maarten Luyts, docent, stagecoördinator en  trajectbegeleider aan het AP hogeschool willen bedanken voor de begeleiding gedurende mijn stageperiode, het nalezen en verbeteren van dit werk.</p>
+<p style="text-align: justify;"> Daarnaast gaat mijn dank uit naar Kris Proost en Pascale Raeymaekers omdat zij tijd vrij hebben gemaakt voor het nalezen en verbeteren van dit werk en voor hun emotionele ondersteuning.</p>
+<p style="text-align: justify;">Mijn laatste dankwoorden zijn voor mijn vrienden. Bij hen kan ik altijd terecht voor hulp en zij hebben mij gesteund gedurende al mijn studiejaren.</p>

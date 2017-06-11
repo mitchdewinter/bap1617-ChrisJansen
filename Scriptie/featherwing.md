@@ -1,4 +1,4 @@
-####2.1.1.2	Arduino Featherwing HUZZAH ESP8266
+####Arduino Featherwing HUZZAH ESP8266
 <img src="images/featherwing.png" alt="FIGUUR 3: ARDUINO UNO WIZFI210 SHIELD" width="200" height="" align="right">
 <p style="text-align: justify;">Bij een volgende opstelling werd er gekozen om met een Arduino Featherwing HUZZAH te werken. De Arduino Featherwing HUZZAH is kleiner dan de Arduino UNIO en heeft een geintegreerde ESP8266 chipset. Ook hierbij controleert een script op de Exchange Server of de vergaderzaal gereserveerd is door de Exchange Web Service API (EWS) aan te spreken. Het schema ziet er dan als volgt uit:</p> 
 
