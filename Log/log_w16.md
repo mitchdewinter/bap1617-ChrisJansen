@@ -1,9 +1,9 @@
 # Logboek Week #15 (29/05/17 - 02/06/17)
 ### Maandag
-* Scriptie.
+* Controleren van scriptie integeriteit.
 
 ### Dinsdag
-* Invoegen van schema's voor 'Techiscne analyse' in scriptie.
+* Invoegen van schema's voor 'Technische analyse' in scriptie.
 * Verzamelen van termen voor 'Glossary' in scriptie. 
 
 ### Woensdag
